@@ -1,7 +1,7 @@
 def hello():
     return 'world'
 
-x = 'Frist check-in'
+x = 'Second check-in'
 y = 'Second check-in'
 
 def world():
