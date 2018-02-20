@@ -1,5 +1,5 @@
 def hello():
-    return 'World_Q'
+    return 'World_B'
 
 x = 'Second check-in'
 y = 'Second check-in'
