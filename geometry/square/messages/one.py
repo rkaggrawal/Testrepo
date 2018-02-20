@@ -1,7 +1,11 @@
-val1 = 100
-val2 = 200
-val3 = 300
+def hello():
+    return 'world'
+
+x = 'Frist check-in'
+y = 'Second check-in'
+
+def world():
+    return 'Hello'
 
 
-def world()
-    return  'hello'
+
